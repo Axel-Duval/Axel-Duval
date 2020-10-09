@@ -1,6 +1,6 @@
-### Hi there, I'm Axel 👋
+## Hi there, I'm Axel 👋
 
-## I'm a french IT & Managment engineering student at [Polytech][polyurl]!
+### I'm a french IT & Managment engineering student at [Polytech][polyurl]!
 
 - 🔭 I’m currently working on [memomental][memoapp]
 - 🌱 I’m currently learning everything 😋
@@ -9,8 +9,10 @@
 - 📫 How to reach me: axel.duval74@gmail.com 📧
 - ⚡ Fun fact: I like design and tea 🍵
 - 😸 Find me on: [Facebook][facebookurl] - [Instagram][instaurl] - [LinkedIn][linkedinurl]
-
-<br />
+- <details>
+  <summary>📍 GitHub Stats</summary>
+  <img align="left" alt="Axel-Duval GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Axel-Duval&show_icons=true&hide_border=true" />
+</details>
 
 ### Languages and Tools:
 
@@ -27,15 +29,8 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-<br />
-<br />
 
-<details>
-  <summary>📍 GitHub Stats</summary>
 
-  <img align="left" alt="Axel-Duval GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Axel-Duval&show_icons=true&hide_border=true" />
-
-</details>
 
 [memoapp]: http://www.memomental.io
 [polyurl]: https://www.polytech.umontpellier.fr/formation/cycle-ingenieur/informatique-et-gestion
