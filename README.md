@@ -9,7 +9,7 @@
 - 📫 How to reach me: axel.duval74@gmail.com 📧
 - ⚡ Fun fact: I like design and tea 🍵
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Axel-Duval&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Axel-Duval&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [memoapp]: http://www.memomental.io
