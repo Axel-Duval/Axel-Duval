@@ -8,6 +8,7 @@
 - 🥅 2020 goals: Contribute to more projects and get an abroad internship 🌏
 - 📫 How to reach me: axel.duval74@gmail.com 📧
 - ⚡ Fun fact: I like design and tea 🍵
+- 😸 Find me on: [Facebook][facebookurl] - [Instagram][instaurl] - [LinkedIn][linkedinurl]
 
 <br />
 
@@ -38,3 +39,6 @@
 
 [memoapp]: http://www.memomental.io
 [polyurl]: https://www.polytech.umontpellier.fr/formation/cycle-ingenieur/informatique-et-gestion
+[linkedinurl]: https://www.linkedin.com/in/axel-duval-18893a164/
+[facebookurl]: https://www.facebook.com/marmotteaxel/
+[instaurl]: https://www.instagram.com/axel.duval/?hl=fr
