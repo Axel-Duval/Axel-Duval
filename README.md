@@ -2,7 +2,7 @@
 
 ### I'm a french IT & Managment engineering student at [Polytech][polyurl]!
 
-- 🔭 I’m currently working on [memomental][memoapp]
+- 🔭 I’m currently working on [memomental.io][memoapp]
 - 🌱 I’m currently learning everything 😋
 - 👯 I’m looking to collaborate on bigger projects
 - 🥅 2020 goals: Contribute to more projects and get an abroad internship 🌏
