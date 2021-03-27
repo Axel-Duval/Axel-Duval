@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on [memomental.io][memoapp]
 - 🌱 I’m currently learning everything 😋
 - 👯 I’m looking to collaborate on bigger projects
-- 🥅 2020 goals: Contribute to more projects and get an abroad internship 🌏
+- 🥅 2021 goals: Contribute to more projects and get an travel around the world 🌏
 - 📫 How to reach me: axel.duval74@gmail.com 📧
 - ⚡ Fun fact: I like design and tea 🍵
 - 😸 Find me on: [Facebook][facebookurl] - [Instagram][instaurl] - [LinkedIn][linkedinurl]
