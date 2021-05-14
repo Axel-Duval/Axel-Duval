@@ -32,7 +32,7 @@
 
 
 
-[memoapp]: http://www.memomental.io
+[memoapp]: https://app.memomental.fr
 [polyurl]: https://www.polytech.umontpellier.fr/formation/cycle-ingenieur/informatique-et-gestion
 [linkedinurl]: https://www.linkedin.com/in/axel-duval-18893a164/
 [facebookurl]: https://www.facebook.com/marmotteaxel/
