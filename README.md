@@ -9,9 +9,6 @@
 - 📫 How to reach me: axel.duval74@gmail.com 📧
 - ⚡ Fun fact: I like design and tea 🍵
 - 😸 Find me on: [Facebook][facebookurl] - [Instagram][instaurl] - [LinkedIn][linkedinurl]
-- <details>
-  <summary>📍 GitHub Stats</summary>
-  <img align="left" alt="Axel-Duval GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Axel-Duval&show_icons=true&hide_border=true" />
 </details>
 
 ### Languages and Tools:
