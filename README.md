@@ -1,8 +1,7 @@
 ## Hi there, I'm Axel 👋
 
-### I'm a french IT & Managment engineering student at [Polytech][polyurl]!
+### I'm a french Software engineer at [Zendesk][zen]!
 
-- 🔭 I’m currently working at [Zendesk][zen]
 - 🌱 I’m currently learning everything
 - 🥅 2022 goal: Travel around the world
 - ⚡ Fun fact: I like design and tea
@@ -31,7 +30,6 @@
 
 
 [zen]: https://www.zendesk.com/
-[polyurl]: https://www.polytech.umontpellier.fr/formation/cycle-ingenieur/informatique-et-gestion
 [linkedinurl]: https://www.linkedin.com/in/axel-duval-18893a164/
 [facebookurl]: https://www.facebook.com/marmotteaxel/
 [instaurl]: https://www.instagram.com/axel.duval/?hl=fr
