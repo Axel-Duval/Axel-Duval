@@ -2,11 +2,11 @@
 
 ### I'm a french Software engineer at [Zendesk][zen]!
 
-- 🤖 I worked on the first AI-powered feature of [Explore](explore) product
-- 🥅 2025 goal: Become a finisher of an ultra-trail
-- 🎸 Fun fact: I'm currently learning to play the guitar
-- 📫 How to reach me: axel.duval74@gmail.com
-- 👋 Find me on [LinkedIn][linkedinurl]
+- 🤖 I contributed to the first AI-powered feature of the [Explore](explore) product
+- 🥅 2025 goal: Finish an ultra-trail!
+- 🎸 Fun fact: I'm on a journey to learn the guitar
+- 📫 Reach me at: axel.duval74@gmail.com
+- 👋 Connect with me on [LinkedIn][linkedinurl]
 </details>
 
 ### Languages and Tools:
