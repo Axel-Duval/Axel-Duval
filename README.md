@@ -1,6 +1,6 @@
 ## Hi there, I'm Axel 👋
 
-### I'm a french Software engineer at [Zendesk][zen]!
+### I'm a 🇫🇷 Software Engineer currently working for [Zendesk][zen]!
 
 - 🤖 I contributed to the first AI-powered feature of the [Explore](explore) product
 - 🥅 2025 goal: Finish an ultra-trail!
