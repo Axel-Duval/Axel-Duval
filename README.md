@@ -9,6 +9,10 @@
 - 👋 Connect with me on [LinkedIn][linkedinurl]
 </details>
 
+### Resources
+- 💼 [Virtual business card](https://card.duvalax.com/)
+- 👾 [Personal CLI](https://term.duvalax.com/)
+
 ### Languages and Tools:
 
 <img align="left" alt="Typescript" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
