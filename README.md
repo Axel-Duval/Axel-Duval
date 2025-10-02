@@ -1,9 +1,8 @@
 ## Hi there, I'm Axel 👋
 
-### I'm a 🇫🇷 Software Engineer currently working for Zendesk!
+### I'm a 🇫🇷 Software Engineer currently working for Upflow!
 
-- 🤖 I contributed to the first AI-powered feature of the Explore product
-- 🥅 2025 goal: Finish an ultra-trail!
+- 🥅 2025 goal: Finish an ultra-trail! (done)
 - 🎸 Fun fact: I'm on a journey to learn the guitar
 - 📫 Reach me at: axel.duval74@gmail.com
 - 👋 Connect with me on [LinkedIn](https://www.linkedin.com/in/axel-duval-se/)
