@@ -2,7 +2,7 @@
 
 ### I'm a 🇫🇷 Software Engineer currently working for Upflow!
 
-- 🥅 2025 goal: Finish an ultra-trail! (done)
+- 🥅 2026 goal: Finish a 100km ultra-trail!
 - 🎸 Fun fact: I'm on a journey to learn the guitar
 - 📫 Reach me at: axel.duval74@gmail.com
 - 👋 Connect with me on [LinkedIn](https://www.linkedin.com/in/axel-duval-se/)
